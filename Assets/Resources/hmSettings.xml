@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<GameSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DefensiveAISettings>
+    <AIType>DEFENSIVE</AIType>
+    <MinDistance>40</MinDistance>
+    <MaxLP>10</MaxLP>
+    <ShootDistance>60</ShootDistance>
+    <WeaponCoolDown>0.25</WeaponCoolDown>
+    <WeaponAccuracy>100</WeaponAccuracy>
+    <MaxExtraWeaponCoolDown>0</MaxExtraWeaponCoolDown>
+    <MaxAreaWidth>4</MaxAreaWidth>
+  </DefensiveAISettings>
+  <AggresiveAISettings>
+    <AIType>AGGRESSIVE</AIType>
+    <MinDistance>25</MinDistance>
+    <MaxLP>10</MaxLP>
+    <ShootDistance>60</ShootDistance>
+    <WeaponCoolDown>0.25</WeaponCoolDown>
+    <WeaponAccuracy>100</WeaponAccuracy>
+    <MaxExtraWeaponCoolDown>0</MaxExtraWeaponCoolDown>
+    <MaxAreaWidth>4</MaxAreaWidth>
+  </AggresiveAISettings>
+  <MedPackAllowed>true</MedPackAllowed>
+  <MaxPlayerHP>30</MaxPlayerHP>
+  <UseEnemyCompass>true</UseEnemyCompass>
+  <UseFlagCompass>true</UseFlagCompass>
+  <IsHardMode>false</IsHardMode>
+  <MaxEnemyAICount>4</MaxEnemyAICount>
+  <MedPackMinHealAmount>5</MedPackMinHealAmount>
+  <MedPackRndAddHealAmount>3</MedPackRndAddHealAmount>
+</GameSettings>
